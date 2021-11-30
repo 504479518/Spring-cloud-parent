@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.caesar.common.rabbitmq.config.RabbitMqConfig

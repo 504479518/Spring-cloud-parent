@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.caesar.common.elasticsearch.config.RestHighLevelClientConfig,\
+  com.caesar.common.elasticsearch.service.ElasticSearchService

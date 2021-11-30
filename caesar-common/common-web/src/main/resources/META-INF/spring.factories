@@ -1,0 +1,4 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.caesar.common.web.config.WebMvcConfig,\
+  com.caesar.common.web.config.FeignConfig,\
+  com.caesar.common.web.exception.GlobalExceptionHandler
