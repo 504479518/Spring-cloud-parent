@@ -12,10 +12,10 @@ import java.util.Set;
 import java.util.concurrent.TimeUnit;
 
 /**
- * @author huawei
+ * @author caesar
  * @desc spring redis 通用工具类
- * @email huawei_code@163.com
- * @date 2021/2/9
+ * @email 504479518@qq.com
+ * @date 2021/12/1
  */
 @Component
 public class RedisUtils {

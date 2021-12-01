@@ -11,10 +11,10 @@ import org.springframework.context.annotation.Configuration;
 import java.util.List;
 
 /**
- * ElasticSearch HighLevelClient
- *
- * @author hxr
- * @date 2021-03-05
+ * @author caesar
+ * @desc ElasticSearch HighLevelClient
+ * @email 504479518@qq.com
+ * @date 2021/12/1
  */
 @ConfigurationProperties(prefix = "spring.elasticsearch.rest")
 @Configuration
